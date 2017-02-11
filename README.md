@@ -1,2 +1,2 @@
 # ttt
-to ta tak
+tak czy dwa
